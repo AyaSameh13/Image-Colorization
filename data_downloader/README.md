@@ -4,6 +4,7 @@
 <ol>
 <li>download url list (you can choose any link) from the prev link</li>
 <li>run in the terminal: python3 txt_to_csv.py [url list txt file] [csv desired file name] this should output the csv file</li>
+<li>run ./download.sh [csv_file path] [desired download dir]</li>
 </ol>
 <p><span style="text-decoration: underline;">Note:</span></p>
 <p>We uploaded a sample url txt file and csv file&nbsp;</p>
